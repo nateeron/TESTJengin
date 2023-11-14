@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmOu7nf29MNdVqY8Com5jE4M/v4v4Av/gpcX4ky6WJqxJvD3njYGHMO+oAEy8nvf8JQSvsnitFqTSIW8zLhMPQ==",
+  "success": true,
+  "projectFilePath": "G:\\TravPaxAPI\\Build_Jenkin\\Build_Jenkin\\Build_Jenkin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

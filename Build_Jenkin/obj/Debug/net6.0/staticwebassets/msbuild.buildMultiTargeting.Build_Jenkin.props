@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Build_Jenkin.props" />
+</Project>
